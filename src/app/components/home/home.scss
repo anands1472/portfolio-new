@@ -30,11 +30,14 @@ img {
 ::ng-deep .image-contant .p-card-title {
     font-size: 35px;
     text-align: center;
+    font-family: 'Courier New', monospace;
+    font-weight: 600;
 }
 
 ::ng-deep .image-contant .p-card-content {
     font-size: 25px;
     text-align: center;
+    font-family: 'Courier New', monospace;
 }
 
 ::ng-deep .image-contant .p-card-body {
